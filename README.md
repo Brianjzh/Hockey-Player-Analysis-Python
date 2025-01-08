@@ -16,11 +16,11 @@ This project analyzes hockey player statistics to uncover insights into player p
 ---
 
 ## Visualizations
-###Confusion Matrix
+### Confusion Matrix
   ![Matrix](images/Matrix.png)
-###ROC Curve
+### ROC Curve
   ![ROC Curve](images/ROC.png)
-###Decision Tree
+### Decision Tree
   ![Tree](images/Tree.png)
 
 ---
