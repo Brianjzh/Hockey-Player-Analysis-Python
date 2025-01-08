@@ -16,12 +16,12 @@ This project analyzes hockey player statistics to uncover insights into player p
 ---
 
 ## Visualizations
-- **Correlation Heatmap**:
-  ![Correlation Heatmap](images/correlation_heatmap.png)
-- **Goals vs Assists**:
-  ![Goals vs Assists](images/goals_vs_assists.png)
-- **Points by Ice Time**:
-  ![Points by Ice Time](images/points_by_ice_time.png)
+- **Confusion Matrix**:
+  ![Matrix](images/Matrix.png)
+- **ROC Curve**:
+  ![ROC Curve](images/ROC.png)
+- **Decision Tree**:
+  ![Tree](images/Tree.png)
 
 ---
 
