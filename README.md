@@ -12,7 +12,6 @@ This project analyzes hockey player statistics to uncover insights into player p
   - Identify game trends and their impact on player contributions.
 - **Data Insights**:
   - Explore relationships between key variables like scoring, assists, and time on ice.
-  - 
 ---
 
 ## Visualizations
